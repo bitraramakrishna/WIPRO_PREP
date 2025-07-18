@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello GIT PRACTICE EXERCISE
+=======
+hello I AM USING GIT EXERCISE
+>>>>>>> fb7aafa18b05cd01f25444513a5e693f6c023ba3
